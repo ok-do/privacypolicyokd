@@ -814,6 +814,14 @@ p {
 	line-height: 1.4
 }
 
+.mb-5{
+	margin-bottom: 5px;
+}
+
+.mb-15{
+	margin-bottom: 15px;
+}
+
 @media (min-width: 768px) {
 	.lead {
 		font-size: 21px
